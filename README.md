@@ -7,7 +7,7 @@ The purpose of this Analysis is to determine which non profit foundations will b
 
 ## Results
 ### Data Preprocessing
-
+![](https://github.com/Ajsforlife/Neural_Network_Charity_Analysis/blob/main/Pictures/preprocessing1.png)
 
 ### Compiling, Training, and Evaluating the Model
 
